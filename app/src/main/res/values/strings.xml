@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">App2_CarlosMontequi</string>
+    <string name="mItm_aceca">Acerca de </string>
+    <string name="mItm_fecha">Fecha</string>
+    <string name="info_acercaDe"> Autor: Carlos Montequi Rodríguez</string>
+    <string name="txtv_prueba"> 0</string>
+    <string name="eTxt_textoEditable">220</string>
+    <string-array name="array_numeros">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string name="bt_caclular">Calcular</string>
+    <string name="lstV_opciones"/>
+    <string name="txtV_resltado"/>
+</resources>
